@@ -1,0 +1,3 @@
+.list-group-item.disabled{
+    pointer-events: all;
+}
